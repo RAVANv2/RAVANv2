@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravanv2" alt="ravanv2" /></a> </p>
 
-- 🔭 I’m currently working on **MY LIFE**
+- 🔭 I’m currently working on **MY FUTURE**
 
 - 🌱 I’m currently learning **Deep Learning Framworks**
 
