@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravanv2" alt="ravanv2" /></a> </p>
 
-- 🔭 I’m currently working on **FLINK and Kafka**
+- 🔭 I’m currently **Strengthening my Data strcutures and Algorithms.**
 
-- 🌱 I’m currently learning **Deep Learning Framworks**
+- 🌱 I’m currently learning **Big Data Frameworks i.e Flink**
 
 - 👨‍💻 Want to check out my Portfolio Website than [click here](https://ravanv2.github.io/My_Portfolio/index.html)
 
